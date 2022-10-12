@@ -1,0 +1,26 @@
+/* COMMENTS */
+*{
+    margin: 0;
+    padding: 0;
+    font-family: monospace;
+    box-sizing: border-box;
+}
+
+
+.income {
+    border: solid green 1rem;
+}
+.expenses {
+    border: solid red 1rem;
+    display: flex;
+    padding: 1rem;
+    gap: 1rem;
+}
+
+.bills {
+    border: solid orange 1rem;
+}
+
+.cashEnvelops {
+    border: solid orange 1rem;
+}
